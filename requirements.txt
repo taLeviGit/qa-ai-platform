@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pytest
+requests
+pydantic
+faker
+schemathesis
+pytest-bdd
+pytest-xdist
+allure-pytest
+datamodel-code-generator
+pyyaml
+ruff
+anthropic
+email-validator
